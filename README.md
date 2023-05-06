@@ -3,6 +3,7 @@
 ### Instructor Information
 - Instructor: Hoyeol Kim
 - Email: hoyeolkim7@gmail.com
+- Mastodon: [@hoyeolkim@hcommons.social](https://hcommons.social/@hoyeolkim)
 - Twitter: [@elibooklover](https://twitter.com/elibooklover)
 - Course Github Repository: [https://github.com/elibooklover/Deep-Learning-for-Humanists-2023](https://github.com/elibooklover/Deep-Learning-for-Humanists-2023)
 
