@@ -42,7 +42,7 @@ By the end of the workshop, participants will:
 -	pix2pix 
 -	Victorian400
 
-3. Wednesday, June 14th (Day 3) - 2-5pm (CST)
+3. Wednesday, June 14th (Day 3) - 3-5pm (CST)
 -	Tensor
 -	L1 and L2 loss functions
 -	Normalization
