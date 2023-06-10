@@ -19,8 +19,8 @@ GitHub: Participants need to sign up for GitHub in order to access course materi
 ### Learning Objectives
 By the end of the workshop, participants will:
 
--	Understand the fundamental functions of deep learning.
--	Be familiar with generative models and their deep learning functions.
+-	Understand the fundamental concepts of deep learning.
+-	Be familiar with generative models and their deep learning algorithms.
 -	Be able to preprocess data for deep learning.
 -	Deploy deep learning models for computer vision tasks.
 
@@ -35,10 +35,11 @@ By the end of the workshop, participants will:
 -	Loss functions
 
 2. Tuesday, June 13th (Day 2) - 2-5pm (CST)
--	Gradient descent
 -	Object detection (RetinaNet)
+-	Gradient descent
 -	Data preprocessing
 -	Image processing
+-	EDA
 -	pix2pix 
 -	Victorian400
 
