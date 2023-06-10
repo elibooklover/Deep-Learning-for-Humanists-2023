@@ -5,7 +5,7 @@ import argparse
 
 file_destinations = {'GAN-Colorization':'Victorian400.zip'}
 
-file_id_dic = {'GAN-Colorization':'1TpvGS_WX9YPv4eBBAW09GCWFOW5EFEsR'}
+file_id_dic = {'GAN-Colorization':'1_NX9egQeck5gmmTQD9SmJULWSpSIfcZV'}
 
 def download_file_from_google_drive(id_, destination):
     url = f'https://drive.google.com/uc?id={id_}'
