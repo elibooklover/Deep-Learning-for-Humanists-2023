@@ -32,22 +32,22 @@ By the end of the workshop, participants will:
 -	GAN-based models
 -	Neural networks
 -	Activation functions
--	Loss functions
 
 2. Tuesday, June 13th (Day 2) - 2-5pm (CST)
--	Object detection (RetinaNet)
+-	Tensor
+-	Normalization
+-	Loss functions
 -	Gradient descent
--	Data preprocessing
+-	Object detection (RetinaNet)
+-	Data augmentation
 -	Image processing
 -	EDA
--	pix2pix 
--	Victorian400
 
 3. Wednesday, June 14th (Day 3) - 3-5pm (CST)
--	Tensor
 -	L1 and L2 loss functions
--	Normalization
 -	Experiments with GANs and cGANs
+-	pix2pix
+-	Victorian400
 -	Transfer learning
 -	Multimodal deep learning
 -	Large language models
