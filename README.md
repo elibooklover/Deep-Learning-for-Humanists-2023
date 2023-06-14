@@ -45,10 +45,9 @@ By the end of the workshop, participants will:
 
 3. Wednesday, June 14th (Day 3) - 3-5pm (CST)
 -	L1 and L2 loss functions
--	Experiments with GANs and cGANs
+-	Experiments with GANs
 -	pix2pix
 -	Victorian400
 -	Transfer learning
 -	Multimodal deep learning
--	Large language models
 -	Wrap-up
